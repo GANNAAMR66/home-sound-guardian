@@ -13,7 +13,7 @@ The project also investigates how background noise and audio filtering affect cl
 ![Sound Classification Result](screenshots/prediction.png)
 
 ### Model Evaluation
-![Model Comparison](screenshots/model-comparison.png)
+![Model Comparison](screenshots/model_comparison.png)
 
 ## 🎬 Demo Video
 [![Home Sound Guardian Demo](screenshots/app-interface.png)](demo/home-sound-guardian-demo.mp4)
