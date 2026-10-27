@@ -1,0 +1,23 @@
+MODEL COMPARISON
+        model  train_accuracy  validation_accuracy  validation_macro_f1
+Random Forest        1.000000             0.725490             0.718354
+          SVM        0.813333             0.607843             0.580120
+Decision Tree        0.888333             0.568627             0.560541
+
+SELECTED MODEL: Random Forest
+
+FOLD 5 TEST REPORT
+                 precision    recall  f1-score   support
+
+    clock_alarm       0.62      0.62      0.62         8
+    crying_baby       0.75      0.75      0.75         8
+            dog       0.43      0.38      0.40         8
+door_wood_knock       0.38      0.38      0.38         8
+ glass_breaking       0.73      1.00      0.84         8
+           rain       0.86      0.75      0.80         8
+   thunderstorm       0.30      0.38      0.33         8
+ vacuum_cleaner       0.60      0.38      0.46         8
+
+       accuracy                           0.58        64
+      macro avg       0.58      0.58      0.57        64
+   weighted avg       0.58      0.58      0.57        64

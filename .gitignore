@@ -1,0 +1,19 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.vscode/
+.ipynb_checkpoints/
+
+# Dataset and audio files
+data/
+اصوات/
+*.wav
+*.mp3
+*.flac
+
+# Streamlit secrets
+.streamlit/secrets.toml
+features.csv

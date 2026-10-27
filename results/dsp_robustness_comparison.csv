@@ -1,0 +1,11 @@
+model,condition,accuracy,macro_f1
+Decision Tree,Clean,0.484375,0.4878676470588236
+Decision Tree,Noise_20dB,0.265625,0.2191065062388592
+Decision Tree,Noise_10dB,0.203125,0.15
+Decision Tree,Noise_0dB,0.171875,0.0907258064516129
+Decision Tree,Bandpass_Filter,0.484375,0.45299787931366875
+Random Forest,Clean,0.578125,0.5733721322537112
+Random Forest,Noise_20dB,0.671875,0.6619597754756423
+Random Forest,Noise_10dB,0.65625,0.6527573529411765
+Random Forest,Noise_0dB,0.140625,0.06056466302367942
+Random Forest,Bandpass_Filter,0.609375,0.5813649413881612
