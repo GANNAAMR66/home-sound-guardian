@@ -205,7 +205,10 @@ Please review the dataset's license and attribution requirements before redistri
 - Evaluate additional machine learning and deep learning models.
 - Improve confidence reporting and unknown-sound handling.
 - Deploy the application as an accessible web service.
+## 📸 A Special Moment
 
+A memorable moment with our teaching assistant during my learning journey.
+![A special moment with my teaching assistant](screenshots/ganna-with-ta.jpg)
 ## 👩‍💻 Author
 
 **Ganna Amr**
