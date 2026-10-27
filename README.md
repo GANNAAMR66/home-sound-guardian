@@ -130,6 +130,7 @@ home-sound-guardian/
 │   └── per_class_metrics.csv
 ├── data/                 # Local dataset; not included in Git
 ├── اصوات/                # Local audio files; not included in Git
+├──requirements.txt
 ├── .gitignore
 └── README.md
 ```
