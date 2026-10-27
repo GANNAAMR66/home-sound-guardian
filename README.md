@@ -4,7 +4,21 @@
 Home Sound Guardian is a machine learning project designed to recognize important environmental sounds that may occur inside or around a home. It combines **Digital Signal Processing (DSP)** techniques with **Machine Learning** to classify audio recordings into eight sound categories through an interactive Streamlit application.
 
 The project also investigates how background noise and audio filtering affect classification performance.
+## 📸 Application Preview
 
+### Home Screen
+![Home Sound Guardian Interface](screenshots/home.png)
+
+### Sound Classification
+![Sound Classification Result](screenshots/prediction.png)
+
+### Model Evaluation
+![Model Comparison](screenshots/model-comparison.png)
+
+## 🎬 Demo Video
+[![Home Sound Guardian Demo](screenshots/app-interface.png)](demo/home-sound-guardian-demo.mp4)
+
+*Click the image to watch the project demo.*
 ## ✨ Features
 
 - **8-Class Sound Classification:** Recognizes dog barking, crying babies, door knocking, clock alarms, glass breaking, vacuum cleaners, rain, and thunderstorms.
@@ -108,7 +122,8 @@ home-sound-guardian/
 │   ├── explore_audio.py
 │   ├── extract_features.py
 │   ├── prepare_dataset.py
-│   └── train_model.py
+├── demo/
+│   └── home-sound-guardian-demo.mp4│   └── train_model.py
 ├── results/
 │   ├── model_comparison.png
 │   ├── model_comparison_report.txt
